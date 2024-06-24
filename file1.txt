@@ -1,1 +1,2 @@
 hello all, today is our day one in the class
+date: june 24, 2024
